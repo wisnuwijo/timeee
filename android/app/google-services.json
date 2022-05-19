@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925516890094",
+    "project_id": "timeeee",
+    "storage_bucket": "timeeee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925516890094:android:aab65bd60c130a7bf898ff",
+        "android_client_info": {
+          "package_name": "com.example.timey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925516890094-dejc96u9048r9dtpgpqk0ran0rnq6qq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJ4YQSQiVXi_YW2IndSHsfoNE8UPeF6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925516890094-dejc96u9048r9dtpgpqk0ran0rnq6qq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
